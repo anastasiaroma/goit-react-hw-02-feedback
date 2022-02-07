@@ -1,5 +1,6 @@
 body {
   background: linear-gradient(to top left, powderblue, pink);
+  height: 200px;
 }
 .button {
   text-decoration: none;
