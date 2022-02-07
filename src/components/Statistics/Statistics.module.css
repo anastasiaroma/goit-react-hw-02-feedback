@@ -1,0 +1,12 @@
+.list {
+  list-style: none;
+}
+
+.item {
+  margin-bottom: 10px;
+  font-weight: 500;
+  font-size: 20px;
+}
+h2 {
+  text-align: center;
+}
